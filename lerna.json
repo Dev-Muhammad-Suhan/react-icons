@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "5.0.1",
+  "command": {
+    "version": {
+      "push": true
+    }
+  }
+}
